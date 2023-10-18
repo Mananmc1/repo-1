@@ -1,0 +1,48 @@
+            #d1{
+                background-image: url("10.webp");
+                background-repeat: no-repeat;
+                background-size:cover;
+            }
+            #d2{
+                background-image: url("as.jpeg");
+                background-repeat: no-repeat;
+                background-size:cover;
+            }
+            #d3{
+                background-image: url("BMP.jpeg");
+                background-repeat: no-repeat;
+                background-size:cover;
+            }
+            #head1{
+                    color:rgb(10, 73, 125) ;
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    background-image: url("bg1.jpeg");
+                  }
+            img {
+                    border-radius: 50%;
+                }
+            #head2{
+                    color:rgb(27, 218, 151) ;
+                    font-family: Arial, Helvetica, sans-serif;
+                    background-image: url("bg.jpg");
+                  }
+            #head3{
+                    color:rgb(185, 35, 205) ;
+                    font-family: Arial, Helvetica, sans-serif;
+                    background-image: url("bg2.jpeg");
+                  }
+            #para1{
+                    font-size: large;
+                    color: rgb(27, 159, 215);  
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;             
+                    }
+            #para2{
+                    font-size: large;
+                    color: aqua;  
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;             
+                    }
+            #para3{
+                    font-size: large;
+                    color: rgb(28, 206, 49);  
+                    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+                    }
